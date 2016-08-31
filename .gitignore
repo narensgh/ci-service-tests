@@ -1,0 +1,9 @@
+application/cache/*
+application/logs/*
+/vendor/
+
+# IDE Files
+#-------------------------
+/nbproject/
+/tests/build/*
+composer.lock
